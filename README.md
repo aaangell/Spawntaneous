@@ -1,1 +1,2 @@
 # Spawntaneous
+![Licencia](LICENSE.PNG)
