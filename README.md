@@ -7,4 +7,7 @@ Spawntaneous was developed as a final project for the Videogame Design and Devel
 
 Directed by: Daniel Palacios Alonso: daniel.palacios@urjc.es
 
+Spawntaneous is a tool designed for helping devs with their spawning system.
+This tool takes advantage of DOTS (Unity Technology).
+
 ![Licencia](LICENSE.PNG)
